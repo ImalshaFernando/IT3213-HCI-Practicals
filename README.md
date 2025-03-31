@@ -29,7 +29,7 @@ The exercises focus on creating interactive user interfaces with an emphasis on 
 - Displayed user input dynamically on the screen.
 - Ensured proper button responsiveness for user interaction.
 
-### Day #: Modified the Calculator
+### Day 3: Modified the Calculator
 - Modified the previous week's calculator
 - Created "AC" , "+/-" , "%" functions of the calculator
 - Additionaly tried the basic + , - , * , / operations of the calculator
