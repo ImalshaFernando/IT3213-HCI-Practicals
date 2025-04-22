@@ -22,8 +22,12 @@ The exercises focus on creating interactive user interfaces with an emphasis on 
 ---
 
 ### Day 2: Simple Calculator
+- A fully designed calculator interface built in Axure RP.
+- Includes interactive elements for user input simulation.
+- Designed for UX/UI prototyping and usability testing.
+- Numbers, decimal point and clear functions are properly working
 
-#### 1. Calculator with Number Interactions
+####  Calculator with Number Interactions
 - Developed a basic calculator interface using Axure RP.
 - Implemented interactive number buttons (0-9).
 - Displayed user input dynamically on the screen.
@@ -34,7 +38,15 @@ The exercises focus on creating interactive user interfaces with an emphasis on 
 - Created "AC" , "+/-" , "%" functions of the calculator
 - Additionaly tried the basic + , - , * , / operations of the calculator
 
+### Day 4: Fully Functional Calculator
+- Modified the previous week's calculator
+- Fully functional calculator with working +,-,/,* operations and +/-,%,. operations.
 
+### Day 5: Fixed Navigation Bar & Animated Bell 
+- Fixed navigation bar when the screen is scrolled and after that navigation bar disappears.
+- Animation is added to Bell(rotation)
+
+  
 ## Technologies Used
 - Axure RP (For UI Design and Prototyping)
 
