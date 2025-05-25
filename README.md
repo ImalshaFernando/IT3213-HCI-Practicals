@@ -46,6 +46,16 @@ The exercises focus on creating interactive user interfaces with an emphasis on 
 - Fixed navigation bar when the screen is scrolled and after that navigation bar disappears.
 - Animation is added to Bell(rotation)
 
+### Day 6: Collapsible side panel menu with slide animations
+- Side Panel is visible when swiped to right.
+- It closes when one of the menu tab is clicked or when swiped left on the panel
+
+### Day 7: Interactive Image Viewer UI Prototype
+- Top bar with image display
+- Quick action buttons (Share, Heart/Like, Info, Delete)
+- Interactive panels with slide animations
+- Toggle functionality for the heart/like button
+- Image position adjustment based on info panel visibility
   
 ## Technologies Used
 - Axure RP (For UI Design and Prototyping)
